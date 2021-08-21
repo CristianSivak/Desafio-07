@@ -1,5 +1,5 @@
 # Desafio-07 - NPM e Introducción a Express.
- Coderhouse Programacion Backend Clase 07
+ Coderhouse - Programacion Backend / Clase 07
 
 > Consigna: 
 - Realizar un proyecto de servidor basado en node.js que utilice el middleware express e implemente tres endpoints en el puerto 8080:
